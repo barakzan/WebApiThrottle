@@ -4,6 +4,8 @@ WebApiThrottle
 [![Build status](https://ci.appveyor.com/api/projects/status/vdvuhk2c0tqds297?svg=true)](https://ci.appveyor.com/project/stefanprodan/webapithrottle) 
 [![NuGet](https://img.shields.io/nuget/v/WebApiThrottle.svg)](https://www.nuget.org/packages/WebApiThrottle)
 
+this repo is 99.9% based on stefanprodan/WebApiThrottle
+
 ASP.NET Web API Throttling handler, OWIN middleware and filter are designed to control the rate of requests that clients 
 can make to a Web API based on IP address, client API key and request route. 
 WebApiThrottle package is available on NuGet at [nuget.org/packages/WebApiThrottle](https://www.nuget.org/packages/WebApiThrottle/).
